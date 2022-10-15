@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art1_desc">Portrait of a girl with umbrella in the rain</string>
+    <string name="art2_desc">Royal Princess of Ethiopia</string>
+    <string name="art3_desc">Eve in Eden</string>
+    <string name="art4_desc">Clouds silhouette</string>
+    <string name="art5_desc">Chemistry of the clouds with sunset and dark appearance</string>
+    <string name="art1_author">Gideon Tettehfio (2022)</string>
+    <string name="art2_author">Kat Kuan (1958)</string>
+    <string name="art3_author">Sarah Grants (2000)</string>
+    <string name="art4_author">Owen Scot (2015)</string>
+    <string name="art5_author">Charles Bartwoski(2010)</string>
+
+
+</resources>
